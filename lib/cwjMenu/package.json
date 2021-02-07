@@ -1,6 +1,6 @@
 {
   "name": "@wj.cao/menu",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "main": "lib/cwjmenu.umd.min.js",
   "author": "cwj",
