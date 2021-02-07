@@ -1,6 +1,6 @@
 {
-  "name": "root",
-  "private": true,
+  "name": "@cwj/lerna-seed",
+  "private": false,
   "devDependencies": {
     "lerna": "^3.22.1"
   }
